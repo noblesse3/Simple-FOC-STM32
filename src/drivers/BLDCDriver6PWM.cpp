@@ -1,4 +1,4 @@
-
+#include "main.h" 
 class BLDCDriver6PWM {
 public:
     // Pin initialisation
